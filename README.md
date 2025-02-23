@@ -1,6 +1,5 @@
 ---
 title: Demo
-emoji: 
 colorFrom: purple
 colorTo: purple
 sdk: gradio
